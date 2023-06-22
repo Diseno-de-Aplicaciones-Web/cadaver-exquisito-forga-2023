@@ -1,8 +1,7 @@
 # O exquisito cadaver de Mr McGregor
-![Mr McGregor](./resources/mcgregor.jpeg)
 
 ## A chegada de Mr McGregor
-<!-- milabgrundy -->
+La tranquila y pintoresca villa de Ashbourne no había sido testigo de tanta excitación en años. La noticia de la llegada de Mr. McGregor, un hombre enigmático y de renombre en los círculos aristocráticos, se propagó como un reguero de pólvora entre sus habitantes. 
 ## Os extraños ruidos do cuarto de Mr McGregor
 <!-- CaamanhoPampin -->
 ## Mr McGregor baixa a comer
