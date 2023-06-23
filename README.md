@@ -23,7 +23,7 @@ git switch -c feature/mr-mcgregor-chega-a-casa
 ## Engadindo os contidos
 Escribe o texto da túa sección. Vai creando commits según fagas avances e correccións. Intenta crear polo menos tres ou catro commits.
 ```sh
-git add ./src/README.md
+""
 git commit -m "Enlaza coa pasaxe anterior"
 ...
 git add ./src/README.md
