@@ -44,6 +44,9 @@ Yo: Hola yogui te va ...sigues viviendo en yellowstone?
 yogui: Non agora vivo no Caurel
 --
 pasadas unas semanas vuelvo a encontarme a yogui
+yo: oye yogui, ¿prefieres la comida de aqui , o la de alla?
+Yogui: las hormigas estaban mejor en yellowstone, pero la miel es mejor la del caurel
+
 
 ## Mr McGregor e a camada de cadelos piollentos
 <!-- EduMoure -->
