@@ -82,3 +82,4 @@ Mr McGregor decide recoger los cachorros los mete en un camión y llevarselos al
 Al cruzarse con una patrulla policial le hacen detenerse y al ver su cara de preocupación le piden que abra las puertas del camión, trata de convencerles que no es buena idea, pero el guardia le obliga ... los cachorros salen corriendo desesperados y se pierden por el bosque cercano.
 
 Mr McGregor se le vió discutir con el policia acalaoradamente, dejó el camión se fué detras de los cachorros ..... surgió una gran tormente en ese instante, un estruendoso trueno atronó el lugar acompañado de una gran luminosidad... y no se ha vuelto a saber de él.
+
