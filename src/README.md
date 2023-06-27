@@ -1,12 +1,11 @@
+
 # O exquisito cadaver de Mr McGregor
 
 ## A chegada de Mr McGregor
-<!-- milabgrundy -->
 La tranquila y pintoresca villa de Ashbourne no había sido testigo de tanta excitación en años. La noticia de la llegada de Mr. McGregor, un hombre enigmático y de renombre en los círculos aristocráticos, se propagó como un reguero de pólvora entre sus habitantes. 
 La majestuosa carroza tirada por elegantes corceles negros se detuvo frente a la imponente mansión que había permanecido deshabitada durante décadas. La puerta principal se abrió lentamente, revelando la figura imponente de Mr. McGregor. Vestido con un impecable traje oscuro y portando un sombrero de copa, su mirada penetrante y su aire de misterio cautivaron a todos los presentes. 
 La llegada de aquel enigmático personaje prometía alterar la apacible cotidianidad del pueblo, despertando la curiosidad y la intriga en cada rincón. ¿Cuáles serían sus verdaderas intenciones al elegir Ashbourne como su nuevo hogar? El destino de la villa parecía estar ligado irremediablemente a la presencia de Mr. McGregor, y solo el tiempo revelaría los secretos que este enigmático personaje ocultaba bajo su imponente fachada.
 ## Os extraños ruidos do cuarto de Mr McGregor
-<!--CaamanhoPampin-->
 McGregor traspasou os vieiros de Ashbourne a casa estarrexeu co enorme suspiro que provocou a apertura do portón. McGregor avanzou decidido polo hall, escuro, cheo de lixo e anos pero orgulloso aínda, con esa soberbia de indiano empobrecido. 
 
 O chan de longas táboas de carballo xa canso e escurecido polo paso do tempo e o abandono, laiaba e renxía baixo os pasos. O que comezara como unha leve protesta da medira vella, dos insectos perturbados pola bota implacábel de McGregor, virou unha onda de berros que saían afogados entre os tabiques raídos, frémitos imposíbeis de cascudas e vermes, que parecía foran malditas de súpeto co don da voz. 
@@ -18,7 +17,16 @@ O home regresou a casa e a própria casa choraba diante do vello retornado. O qu
 Entrou, postrou o abrigo naquela cama que xa tiña dosel e cobertor feito de araña, e dirixiu os pasos cara a parede sul. Parou, quitou os anteollos e falou en tono baixo cara a parede de tixolo "Bo dia, Eunice".
 
 ## Mr McGregor baixa a comer
-<!-- marisolpa -->
+No desea llegar tarde al comedor sabe que los demás comensales estarán anciosos de saber que ocurrió en su cuarto, el motivo de esos ruidos y no quiere levantar sospechas. 
+A la vez que baja por las escaleras piensa en que decir cuando le pregunten, no acepta ser burlado por un conejo.
+
+Ciertamente, en el comedor lo esperaban con mucha curiosidad de saber sobre lo ocurrido Iracunda de Crims, Lizzie Hearts y su novio Timothy mientras disfrutaban el vermut.
+
+Non quere chegar tarde ao comedor, sabe que os demais comensais estarán ansiosos por saber o que pasou no seu cuarto, o motivo deses ruídos, e non quere levantar sospeitas.
+Cando baixa as escaleiras, pensa que dicir cando lle preguntan, non acepta que o engane un coello.
+
+Certamente, no comedor agardábano con moita curiosidade por saber do que pasou Iracunda de Crims, Lizzie Hearts e o seu mozo Timothy mentres gozaron do vermú.
+
 ## Mr McGregor es os platos sucios
 
 O día amenceu sosegado na casiña de campo de Mr. McGregor, pero a serenidade da mañá viose interrompida por unha montaña de pratos sucioos que parecían ter invadido a cociña durante a noite.
@@ -27,7 +35,6 @@ Antes de que puidera reaccionar, Mr. McGregor perdeu o equilibrio e comezou a de
 Na súa desesperación por deter a súa louca carreira, Mr. McGregor agarrouse a mesa, enviando pratos voando polo aire en todas as direccións. O caos reinaba na cociña, pero no medio da confusión, Mr. McGregor atopouse a rir ás gargalladas mentres intentaba manterse en pé.
 Finalmente, coa axuda do seu valente compañeiro, un pequeno rato que estivera observando a escena desde un recuncho, Mr. McGregor logrou deter o seu desprazamento descontrolado. Ambos miráronse sorprendidos e comezaron a rir xuntos, desfrutando da inesperada diversión que os pratos suxos lles proporcionaran.
 ## A accidentada siesta de Mr McGregor
-<!-- ffanecaa -->
 
 Mentres durmía plácidamente, un grupo de traviesos coellos, cansos das restricións do xardín de McGregor, decidiron comezar a xogar e facer travesuras. Saltaban e correteaban por todas partes, sen prestar atención á presenza do señor McGregor durmindo.
 
@@ -37,11 +44,18 @@ Furioso, o señor McGregor comeza a perseguir os coellos, tropeza con macetas e 
 
 Finalmente, exhausto e cheo de terra, o señor McGregor detense e senta no chan, derrotado pola enerxía e a astucia dos traviesos coellos. Aínda que a súa sesta foi interrompida, non pode evitar esbozar un sorriso ante a imprevisibilidade da situación.
 ## Mr McGregor sae pasear polo campo
-<!-- man80vil -->
+y se encuentra un oso hormiguero
+!que miedo!!....Oh sorpresa....es el oso yogui
+Yo: Hola yogui te va ...sigues viviendo en yellowstone?
+yogui: Non agora vivo no Caurel
+--
+pasadas unas semanas vuelvo a encontarme a yogui
+yo: oye yogui, ¿prefieres la comida de aqui , o la de alla?
+Yogui: las hormigas estaban mejor en yellowstone, pero la miel es mejor la del caurel
+
+
 ## Mr McGregor e a camada de cadelos piollentos
-<!-- EduMoure -->
 ## Rescatando a Mr McGregor
-<!-- olaia-recalde -->
 Fíxose un silencio na fragua. Os cadelos marcharon deixando atrás a Mr McGregor.
 
 Ferido, enlamado e coa roupa rachada Mr McGregor pensaba en como podería saír do socabón no que se atopa, berraba pedindo axuda unha e outra vez agardando que alguén o escoitase e logrouno.
@@ -56,13 +70,15 @@ Mr McGregor abríu un ollo, mirou cara arriba e volver escuitar
 
 O urso! Era o urso o que falaba! Echegoulle unha man, e dun estrincón sacou a Mr McGregor do furado e pousouno ao pé dunha aciñeira. Mr McGregor non daba creto, nada do que sucedera nese día tivera sentido, pero que o rescatase do seu peor momento un urso de 3 metros que falaba era demasiado. Perdeu a consciencia e deixou caer o seu corpo.
 ## Mr McGrego amosase arepentido
-<!-- 0IvanTC -->
 Logo de ser rescatado polo oso, Mr Mcgregor pediulle perdón, pois sabía que se había equivocado o matar os pequenos osiños daquel que o había rescatado. 
 
 Pero aquel oso había estado seguindo o asesino dos seus fillos, pois un pequeno rastro de olor había quedado no aire da zona do crime, o oso despois de notar aquel olor que había estado perseguindo dende facía tanto tempo, avalanzouse sobre Mr McGregor, McGregor o notar o cambio repentino no oso, logrou esquivalo cun rapido salto lateral, pois era un experto cazador e sabía a millor forma de evitalo.
 
 Pero Mr McGregor, non quería facerlle dano o seu salvador, pois sabía que sen o oso, habría sido pasto daquela jauría, e entendía os motivos daquel oso para estar tan enfadado, o único que puido facer era fuxir e buscar a maneira de sobrevivir. Mentras fuxía, escoitou un gruñido de dor, a pesar do medo Mr McGregor decidíu dar a volta e ver que acontecera naquel lugar. Entón, atopou o oso atrapado nunha trampa de animais, o oso non paraba de facer ruidos de dor, mirou para Mr McGregor cos ollos enchidos en lágrimas, recordando os seus oseznos mortos, sabendo que aquel home acabaría ca súa vida, igual que fixera cos seus pequenos, pero Mr McGregor consciente do dano que había feito, liberou a aquel oso, que xa non estaba enfadado, levouno a súa cabana e alí coudou del, curoulle a pata e doulle de comer ata que aquel oso puido volver a sobrevivir só. Aquel acto non iba a facer que os pequenos oseznos resucitaran, pois o feito xa non se podía cambiar, pero aquel oso douse conto que aquel home había cambiado, e Mr Mcgregor douse conta que ata o animal mais perigoso, pode salvarche a vida, e así, deixou a súa vida de caza para protexer o que un día tanto perseguía.
 ## Bye, bye, Mr McGregor
-<!-- Carmen100f -->
 
+Mr McGregor decide recoger los cachorros los mete en un camión y llevarselos al campo , no confia que la ciudad sea un buen lugar para ellos, durante el trayecto nocturno los cachorros duermen placidamente pero al llegar la madrugada se despiertan con hambre y comienza a oirse un alboroto dento del camión.
 
+Al cruzarse con una patrulla policial le hacen detenerse y al ver su cara de preocupación le piden que abra las puertas del camión, trata de convencerles que no es buena idea, pero el guardia le obliga ... los cachorros salen corriendo desesperados y se pierden por el bosque cercano.
+
+Mr McGregor se le vió discutir con el policia acalaoradamente, dejó el camión se fué detras de los cachorros ..... surgió una gran tormente en ese instante, un estruendoso trueno atronó el lugar acompañado de una gran luminosidad... y no se ha vuelto a saber de él.
